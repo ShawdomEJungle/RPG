@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/css.css">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Shawdom and Jungle</title>
+	<link rel="shortcut icon" href="favicon_32x32.png">
+	</head>
+<body>
+<!-- Barra, cabeçalho, e menu -->
+	<header class="menu-principal">
+<main>
+		<!--Div da barra preta do topo-->
+
+<div class="barra-top">
+<!-- Essa Div separa o logo do restante , está dentro da div da barra-->
+		<div class="logo">
+			<img src="default_.png" alt="Shawdom and Jungle logo" style="height:40px;">
+			</div>
+
+			<div class="corvo1">
+			<img src="corvo.png" alt="Logo Mascote" style="height: 190px;">
+			</div>
+						<div class="corvo2">
+			<img src="corvo.png" alt="Logo Mascote" style="height: 190px;">
+			</div>
+		<!--Div da logo termina aqui -->
+
+	</div>
+		<!--Div da barra termina aqui -->
+
+		<!-- Div da imagem do topo -->
+
+	<!-- Fim da div da imagem do topo -->
+	</main>
+	</header>
+	<main>
+		<div class="header2">
+			<div class="menu" align="center">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">Fichas</a></li>
+					<li><a href="">Historias</a></li>
+					<li><a href="">Mundo</a></li>
+					<li><a href="">Sistema</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="papel-parede">
+			<img src="papel-parede.png" >
+			<P>Bem vinda(O)<BR> ao<BR> shawdom and jungle</P>
+		</div>
+		<div class="container">
+		<div class="texto1">
+			<h1>Tormenta</h1>
+				<img src="img/quatro-cavaleiros.jpg" style="width:450;height:550;">
+
+<h2>"Observei quando ele abriu o sexto selo. Houve um grande terremoto. O sol ficou escuro como tecido de crina negra, toda a lua tornou-se vermelha como sangue, e as estrelas do céu caíram sobre a terra como figos verdes caem da figueira quando sacudidos por um vento forte."
+<br>Apocalipse 6:12-13</h2>
+
+<p>A realidade é uma certeza sem dono, esculpida no firmamento, atestada pelo tempo.
+	Sob suas torres de babel retangulares, abraçados a verdades relativas, munidos de poder bélico, embebecidos por sua glória dominante, cegos por sua arrogância. Os vencedores da corrida biológica do mundo, os humanos, foram derrotados pela própria vitória.
+	O tempo é o mais cruel dos senhores, ele põe fim em todas as coisas. Sua bocarra engole a existência dos seres, e com sua titânica mão tirânica, esmaga lendas, e legados, e expira até mesmo a imortalidade de deuses.
+	Quando o chão rompeu, o fogo varreu o solo, reis caíram, suas torres se tornaram ruínas, suas cidades fantasmas, os abastardos se tornaram miseráveis, os miseráveis se tornaram pó, pois a morte é justa em sua punição gratuita.
+	Nenhum império resistiu, nenhum reinado se pôs de pé, nenhuma represa pode parar o ímpeto furioso das ondas do inferno, nem massacrar os inferis. Os demônios existem, e o diabo corteja os miseráveis, a uma dança macabra. 
+	A cortesia de um inimigo perigoso, e ignorado. 
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+				<img src="img/floresta-em-chamas.jpg" style="width:90%;height:90%;">
+<h1>Efeitos Colaterais</h1>
+<h2>“Que diferença faz para os mortos, os órfãos e os sem-teto, se a destruição louca é feita em nome do totalitarismo ou em nome sagrado da liberdade ou da democracia?”<br> Platão</h2>
+<p>
+	Nada escapa da fúria de áries, a guerra é um senhor faminto, e impetuoso. Ceifa toda sorte de vida, elemina recursos, arrasa a terra. Uma terra pós guerra, é uma terra morta, como se não mais fluísse a água, mas rios de veneno correndo por uma terra desgraçada, tal qual a chuva é ácida, constante, as tempestades furiosas, o clima enloquecido, até mesmo o planeta se torna instável, mergulha no caos. Tal qual a morte, a vida impera, a banlança nunca pende para um lado permanentemente, ou o tempo perderia sua coroa. Então a vida flúi por entre os dedos do ceifador, escapando como água, ela encontra uma forma de se erguer por entre as rochas, sacudir as cinzas, e erguer voou para iluminar o céu penumbroso, pois não importa o quão densa é a noite, sempre há de vir uma manhã no amanhã.
+</p>
+		    <br><br><br><br><br><br><br><br>
+
+<img src="img/paisagem-apocalipse.jpg" style="width:570;height:430">
+<h1>O Levante dos Condenados</h1> 
+<h2>Não há maior dor do que a de nos recordarmos dos dias felizes quando estamos na miséria.<br>Dante Alighieri - A Divina Comédia (1320)</h2> 
+				
+<p>Como zombies vagando por campos inférteis, por escombros das nações imperialistas agora coroadas com coroa de espinhos, seus espólios são o pó. Os malditos  azarados em resistir, hão de devorar carcaças de estranhos, carcaças de conhecidos, abandonar toda civilidade, toda moralidade, toda ética, e fé. Assim os seguem após o fim do fim, mal-diagramados pelas cicatrizes, suas existências são estolho.<br> O mundo acabou, mas a vida continua, agarre-se a sua existência maldita, preserve sua face deformada pela dor, pelo ódio. Exerça seu egoísmo instintivo, venda sua humanidade para encher sua barriga.</p>
+<h3>Minta, cace, lute, mate ou morra, pela sua sobrevivência. Ver o amanhã não nunca foi uma certeza, é uma dávida. </h3>
+
+<br><br><br>
+
+
+<h1>Carniceiro</h1>
+<h2>"O homem é o lobo do homem"<br> Plauto</h2> 
+				<img src="img/Saturno.jpg" style="width:500px;height:600px">
+<p>Seja livre,  se lembre que a liberdade é quente, e tem um gosto pastoso de sangue. Volte as raízes, viva da terra, derrame sangue nela, beba e coma do corpo de seu amigo. Não ame, não há espaço para o amor nas trevas, não há espaço para a inocência na pervercidade. Use ou seja usado, corra em direção ao amanhã sem olhar para trás, a morte é o alívio das dores da vida, mas não é uma opção, então devore seus filhos, usurpe a juventude por mais alguns minutos de miséria maldita, sacrifique o futuro da espécie para se sentir livre da morte diabo egoísta.</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h1>Os Bravos</h1>
+ 
+				<img src="img/daemon.jpeg" style="width:100%;height:75%">
+<h2>"Si vis Pacem Parabellum"</h2>
+<p>Mesmo nesta terra maldita, há campeões que permanecem lutando, mesmo que de espírito quebrado, barriga vazia, feridas no corpo. Há aqueles que teimosamente ousam se opor a derrota, lutar contra as probabilidades, e frustrar a morte. Há os sonhadores, aventureiros, incapazes de se renderem a desesperança, se acomodarem a dor, transitando entre vastos mundos, batalhando contra toda sorte de inimigo, na busca por uma solução mesmo que temporária, para as diversas sequelas, deixadas pela guerra nesta ou em outras terras.</p>
+<p> Não ouse encontrar nestes fatos, alguma esperança, algum consolo, pois saiba que para cada unidade de bravos campeões, a uma porção vasta de terrores inimagináveis, seres são poderoso, cruéis, e impetuosos, que a morte como destinação, tornasse um luxo<p>
+	<br><br><br>
+<img src="img/exercito-mortos.jpg" style="width:100%;height:75%">
+	<h3>Se junte aos bravos, se junte aos monstros, se aventure, sofra, lute, mate, ou morra!</h3>
+		</div>	
+		</div>
+
+	</main>
+
+<footer class="bg-dark text-white p-5">
+  Copyright © Luan Monteiro da Silva 2022
+</footer>
+
+</body>
+</html>
