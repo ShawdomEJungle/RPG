@@ -1,0 +1,159 @@
+.body{
+	width: 100%;
+	height:100%;
+}
+
+
+.menu-principal{
+
+	width: 100%;
+	background-color: black;
+	height: 50px;
+}
+
+
+
+.main{
+	margin: 0 auto;
+	width: 980px;
+	float: left;
+	position: relative;
+}
+
+.logo{
+	margin-left:36.9%; 
+	float: left;
+	padding: 1px;
+	width: 20%;
+
+}
+.corvo1{
+
+	float: right;
+	width: 6.9%;
+	padding: 1px;
+	margin-top: -72px;
+
+
+}
+
+.corvo2{
+
+	float: left;
+	width: 70%;
+	padding: 1px;
+	margin-top: -120.9px;
+
+
+}
+
+.header2{
+	background-color: #363636;
+	width: 100%;
+	border-bottom: 4px solid gray;
+	float: left;
+	margin-top: -75px;
+}
+
+
+.menu ul li{
+	display: inline-block;
+		margin-left: 15px;
+}
+.menu ul li a{
+	color:	#836FFF;
+	text-decoration: none;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.papel-parede img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 485px;
+}
+
+.papel-parede p{
+	text-align: center;
+	color:#0F1626;
+	text-transform: capitalize;
+	font-size: 35px;
+	text-shadow: 16px 14px 5.7px;
+}
+
+
+.texto1{
+	  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 250px;
+	color: white;
+	position:relative;
+	text-align: center;
+	letter-spacing: 2px;
+	line-height: 25px;
+}
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.element.style {
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+.text-white {
+    color: #fff!important;
+}
+.p-5 {
+    padding: 3rem!important;
+}
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+footer {
+    display: block;
+}
+
+.container{
+	background-color: black;
+	border: 5px solid #708090;
+	padding: 20px;
+	margin-left:8%; 
+	margin-right:8%;
+}
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+  margin: 0;
+}
+
